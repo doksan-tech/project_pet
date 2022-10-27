@@ -1,6 +1,4 @@
 .ipynb_checkpoints
-.after_data/
-.data1/
-.경기도 반려동물.ipynb
-.README.md
-.data/
+after_data/
+data1/
+README.md
